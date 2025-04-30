@@ -1,4 +1,4 @@
-# 🪖 Helmet Detection with YOLOv8
+# 🪖 construction object Detection with YOLOv8
 
 This project implements a **construction object detection ** using the yolov8 object detection framework. It covers end-to-end steps from training and evaluation to ONNX deployment and live inference.
 
