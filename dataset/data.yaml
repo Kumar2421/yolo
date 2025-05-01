@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['hat', 'no hat', 'no vest', 'vest']
+
+roboflow:
+  workspace: skcet-g4h72
+  project: construction-ppe-rdhzo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/skcet-g4h72/construction-ppe-rdhzo/dataset/1

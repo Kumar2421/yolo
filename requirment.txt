@@ -1,0 +1,8 @@
+ultralytics
+tensorboard
+matplotlib
+opencv-python
+onnx>=1.12.0'
+onnxslim>=0.1.46
+onnxruntime
+reportlab
